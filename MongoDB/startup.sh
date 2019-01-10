@@ -1,5 +1,4 @@
 #!/bin/bash
-# Our custom function
 prepop_func(){
   sleep 5
   mongo --eval 'mongo'
